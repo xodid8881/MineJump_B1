@@ -1,0 +1,6 @@
+name: MineJump
+author: saena
+main: MineJump\MineJump
+version: B1
+api:
+  - 4.0.0
